@@ -55,7 +55,7 @@ section#login{
 
 section#login > div#imagem{
     display: block;
-    background: #5F2C82 url(../../peixe.jpg);
+    background: #5F2C82 url(../peixe.jpg);
     background-size: cover;
     height: 200px;
 }
